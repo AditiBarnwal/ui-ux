@@ -40,10 +40,13 @@ A part of AD.design which describes about me.
 ![Screenshot (182)](https://user-images.githubusercontent.com/90051406/209538832-a4cc449e-5ddd-4fd0-9b0f-301b1f4e359d.png)
 
  
-<img align="left" src="https://user-images.githubusercontent.com/90051406/209539992-b66874e6-4c80-4f74-ab7a-572e7069a059.png">
-<img align="right" src="https://user-images.githubusercontent.com/90051406/209540416-9f7a9733-b438-460c-b888-ad0b097e4a00.png">
-
+<tr>
+<td><img align="left"  src="https://user-images.githubusercontent.com/90051406/209539992-b66874e6-4c80-4f74-ab7a-572e7069a059.png" /></td>
+<td><img align="right" src="https://user-images.githubusercontent.com/90051406/209540416-9f7a9733-b438-460c-b888-ad0b097e4a00.png" />
+</td></tr></table>
 
 <br> <br>
 <p><a href="https://yesimadesigner.com/blog/?utm_source=youtube.com&utm_medium=referral&utm_campaign=theory&utm_content=get-better-at-composition">💡 Yes I'm designer.com - will review after</a></p>
+<p><a href="https://yesimadesigner.com/custom-brushes/">💡 Yes I'm designer.com - for using different style brush in illustrator refer here</a></p>
 </br> 
+ 
